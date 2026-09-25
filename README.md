@@ -1,4 +1,4 @@
-# Política de privacidad — Simulador de examen PPA
+# Política de privacidad — Examen Simulador PPA Argentina
 
 Página pública que exige Google Play. Se publica con GitHub Pages desde la rama `gh-pages`.
 
